@@ -1,6 +1,6 @@
 {
   "name": "is-iphonex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Judge if the device is iPhone X based on the device height",
   "main": "index.js",
   "scripts": {
