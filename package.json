@@ -1,0 +1,22 @@
+{
+  "name": "is-iphonex",
+  "version": "1.0.0",
+  "description": "Judge if the device is iPhone X based on the device height",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limbowang/is-iphonex.git"
+  },
+  "keywords": [
+    "iphonex"
+  ],
+  "author": "limbo.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limbowang/is-iphonex/issues"
+  },
+  "homepage": "https://github.com/limbowang/is-iphonex#readme"
+}
